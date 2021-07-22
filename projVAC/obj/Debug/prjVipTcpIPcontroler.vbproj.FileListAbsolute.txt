@@ -1,0 +1,262 @@
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\NEW VIP SYSTEM\APEC ver\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Primea Proj\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Primea Proj\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Primea Proj\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\Primea Proj\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Primea Proj\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\Primea Proj\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSystemMain.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Primea Proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.controlDev.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.controlDev.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSystemMain.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.controlDev.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSystemMain.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+E:\PROGRAMS\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\Dimax proj\prim v2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmEasyEnroll.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.controlDev.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmEasyEnroll.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSysAccount.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSystemMain.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAudit.resources
+D:\PROGRAMS\VB\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe.config
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe.config
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.controlDev.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAudit.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmEasyEnroll.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSysAccount.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSystemMain.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+H:\PROGRAMS\1SA\VB 8\Dimax proj\DimaxProgV2\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe.config
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.controlDev.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddCard.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddController.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAddVip.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAntiPassback.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmAudit.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmCamSettings.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmController.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmDbSettings.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmEasyEnroll.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmFindControler.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmLogin.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmlogs.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmMain.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmReportLogs.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSysAccount.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmSystemMain.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmUpload.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.frmVipRec.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.Resources.resources
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\obj\Debug\prjVipTcpIPcontroler.vbproj.GenerateResource.Cache
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.pdb
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\Car Access Control System\prjVipTcpIPcontroler\prjVipTcpIPcontroler\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Vehicle Access Control System\prjMaster\projVAC\bin\Debug\prjVipTcpIPcontroler.exe.config
+D:\PROGRAMS\ProjectF\VB\VS2013\Vehicle Access Control System\prjMaster\projVAC\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Vehicle Access Control System\prjMaster\projVAC\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Vehicle Access Control System\prjMaster\projVAC\obj\Debug\prjVipTcpIPcontroler.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\VS2013\Vehicle Access Control System\prjMaster\projVAC\obj\Debug\prjVipTcpIPcontroler.exe
+D:\PROGRAMS\ProjectF\VB\VS2013\Vehicle Access Control System\prjMaster\projVAC\obj\Debug\prjVipTcpIPcontroler.xml
+D:\PROGRAMS\ProjectF\VB\VS2013\Vehicle Access Control System\prjMaster\projVAC\obj\Debug\prjVipTcpIPcontroler.pdb
